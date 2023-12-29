@@ -53,7 +53,7 @@ public class Index {
         private String filePath;
 
         public Pointer(Integer count, String filePath) {
-            this.count = count;
+            this.count = count; //WTF
             this.filePath = filePath;
         }
 
